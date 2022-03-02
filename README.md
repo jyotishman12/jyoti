@@ -1,2 +1,2 @@
-# jyoti
-ip assign
+learning about SMTP  
+otp generating 
